@@ -1,4 +1,4 @@
-# code-test
+# POS App
 
 ## Project setup
 ```
